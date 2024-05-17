@@ -1,0 +1,200 @@
+The nonsurgical and surgical management of
+painful temporomandibular joint (TMJ) disorders
+has evolved over the centuries. Unfortunately,
+etiologic sophisms and often unproven mecha-
+nistic treatment philosophies still survive.
+Reviewing the history of the management of TMJ
+disorders not only addresses the complexity of
+the problem, but also demonstrates the impor-
+tance of being aware of the prior pitfalls so that as
+the science of diagnosis and management unfold,
+we as clinicians and researchers do not continue
+to fall into or repeat the shortcomings of the past
+in the future.
+Writings dating from the ancient Egyptians,
+Hippocrates, Vesalius described reduction of the
+dislocated mandible [1].Thereafter, surgery dom-
+inated the earliest management of TMJ disorders.
+The earliest report involved the concept of inter-
+nal derangement of the TMJ articular disc. This
+mechanical concept was first described relative to
+L. G. Mercuri (*)
+Department of Orthopaedic Surgery, Rush University
+Medical Center, Chicago, IL, USA
+e-mail: louis_g_mercuri@rush.edu
+the TMJ disc in 1826 by Astley Paston Cooper
+[2].Then, in 1887, Thomas Annandale discussed
+internal derangement of the TMJ and reported the
+repair of a torn TMJ disc with horse hair in a
+woman with persistent TMJ pain [3]. In subse-
+quent decades, reports followed related to the use
+of discectomy in the management of displaced
+TMJ discs [4–6].However, inclusion and exclu-
+sion criteria, standards for successful outcomes,
+and follow-up were not reported.
+Mid-twentieth century, reports surfaced con-
+cerning the use of discectomy to manage the
+anteriorly dislocated TMJ disc associated with
+degenerative joint disease [7–9].In 1951, Ireland
+[10] discussed the use of condylectomy to treat
+anterior dislocation of the disc; and in 1957,
+Henny and Baldridge [11] presented a series of
+cases in which arthroplasty was used to treat
+painful TMJ dysfunction.
+Temporomandibular joint surgery lost popu-
+larity in the 1960s as clinicians turned to nonsur-
+gical options for the management of TMJ
+disorders. Surgery was relegated to clinical and
+© The Author(s), under exclusive license to Springer Nature Singapore Pte Ltd. 2021
+D. Bhargava (ed.), Temporomandibular Joint Disorders,
+https://doi.org/10.1007/978-981-16-2754-5_1
+12
+L. G. Mercuri
+radiographically obvious pathology, such as which involves a combination of biological, psy-
+ankylosis and neoplasia.
+chological, and social factors [26, 27]. As a result,
+The move toward nonsurgical management domains related to orthopedic principles, neuro-
+has been linked to another mechanically based physiological aspects of pain, neuroanatomic
+theory. Costen [12] resurrected the old notion regions of pain processing, molecular, genetic,
+that tooth loss resulted in posterior and superior and cellular pathophysiology of muscle and
+displacement of the mandibular condyle with joints and behavioral aspects of chronic pain are
+resultant impingement of the condyle on the presently being investigated [28].
+auditory canal causing pain in both the TMJ and
+In the early 1970s, despite the successful man-
+the ear [13–17]. This concept was anatomically agement of many muscle related TMJ pain and
+discredited by Sicher [18] and Zimmerman [19]. dysfunction patients using the tenets of the bio-
+With the discrediting of Costen’s mandibular psychosocial model, there remained a group of
+overclosure theory, hypotheses related to occlu- intractable chronic TMJ pain patients. Farrar and
+sal disharmony and malocclusion arose and Wilkes rediscovered and resurrected the concept
+became influential. These mechanically oriented, of internal derangement. They related chronic
+gnathological theories suggested that during TMJ pain, headache, ear pain, and mandibular
+mandibular closure occlusal interferences cause dysfunction, along with other craniofacial pains,
+mandibular condyle displacement leading to to an uncoordinated function of the disc, condyle,
+pressure on the highly innervated, vascular retro- articular eminence, and superior head of the lat-
+discal TMJ tissue resulting in pain and bony eral pterygoid muscle. Armed with this concept,
+degeneration due to loss of blood supply to joint surgeons started managing chronic TMJ pain and
+structures [20–23]. It has since been well-­ dysfunction as internal derangement which
+documented that there is an absence of a disease-­ involved open TMJ surgery disc repositioning
+specific association between malocclusion and [29–33] or discectomy [34].
+TMJ disorders. Therefore, presently there are no
+Arthroscopy, and later arthrocentesis, emerged
+grounds for further hypothesizing the role of den- as bridges between nonsurgical [35] and surgical
+tal occlusion or malocclusion in the pathophysi- management of TMJ internal derangement.
+ology of TMJ disorders. Clinicians are Ohnishi and Murakami were the first to apply
+encouraged to abandon this old gnathological arthroscopying patients with internal derange-
+paradigm [24].
+ment and arthrosis [36, 37]. Holmlund and
+Schwartz [1] was the first to demonstrate that Hellsing [38], McCain [39] and Sanders [40] pro-
+masticatory muscle tension patterns could be vided studies related to TMJ arthroscopic lysis
+seen in a majority of patients with TMJ pain and lavage. Yang [41] and McCain [42] devel-
+tested. He related this muscle tension to emo- oped arthroscopic TMJ disc repositioning
+tional stress and suggested the term procedures.
+“Temporomandibular joint Pain-Dysfunction
+TMJ arthroscopy and magnetic resonance
+Syndrome.” Then Laskin, based on extensive imaging (MRI) [43] provided much more detailed
+clinical and laboratory research, formulated the information about not only the disc, but also the
+Myofascial Pain-Dysfunction (MPD) Syndrome pathobiology of TMJ disorders in general as well
+theory which like Schwartz stressed emotional as paving the way for minimally invasive TMJ
+rather than mechanical factors leading to masti- arthrocentesis [44].
+catory muscle pain and TMJ dysfunction [25].
+In 1982 the United States Food and Drug
+Over the following decades, the field under- Administration (FDA) authorized the sale of the
+went many taxonomic and conceptual changes. Proplast-Teflon Interpositional TMJ Implant and
+Currently the most popular theories regarding the total TMJ implants by Vitek, Inc. (Houston, TX)
+nonsurgical management of muscle related TMJ [45].After implantation with these devices, many
+pain are based on the biopsychosocial model, patients presented with irreversible and life alter-1
+Temporomandibular Joint from the Pyramids to Total Joint Replacement and Beyond
+ing signs and symptoms. Reports surfaced that
+both were causally related to the hard and soft
+tissue damage created by failure of the Proplast-­
+Teflon TMJ devices and the foreign body giant
+cell reaction that developed. Therefore, in
+January 1991, the FDA ordered Vitek to remove
+its implants from the market [46].
+Since Proplast Teflon caused so much bony
+destruction and consequent significant glenoid
+fossa architectural variation from the normal, it
+was extremely difficult to align properly and sta-
+bilize the available stock TMJ replacement device
+[47] components to reconstruct those patients.
+This led to the development of a computer
+assisted design/computer assisted manufactured
+(CAD/CAM) custom patient fitted total TMJ
+replacement device in 1989 to directly deal with
+these anatomical discrepancies and issues of
+device component and fixation long-term
+stability.
+In 1990, Mercuri and Techmedica (Camarillo,
+CA) developed a prospective multicenter CAD/
+CAM custom patient fitted total TMJ replace-
+ment device clinical trials study [48]. Using
+mechanical and clinical outcomes data from that
+publication, in 1999 the TMJ Concepts (Ventura,
+CA) Patient Fitted TMJ Reconstruction Prosthesis
+was FDA approved as safe and effective for
+implantation.
+From 1995 to 2005, a clinical trial was con-
+ducted by Zimmer Biomet (Jacksonville, FL)
+using the stock Biomet Microfixation Walter
+Lorenz Total TMJ Replacement System devel-
+oped in consultation with Quinn [49]. This device
+was FDA approved in 2005 for implantation.
+Long-term follow-up data for both these
+devices [50, 51] has demonstrated safety and
+effectiveness for the management of end-stage
+TMJ disease [52].
+Ellege et al. [53] reported that 15 countries
+have since developed, or are in the process of
+developing, 27 TMJ replacement systems. 21 are
+custom designed and some are 3D printed. The
+authors found that at publication all of the TMJ
+systems they found were not equal in terms of
+design, material composition, preclinical labora-
+tory testing, manufacturing methods, regulatory
+status, and reporting of clinical outcomes. Those
+3
+important elements varied widely among the
+emerging systems. All of these are important
+issues that must be addressed in the future to
+assure these merging TMJ replacement devices
+are truly safe and effective.
+Polley et al. [54] concluded that utilization of
+extended alloplastic TMJ and mandibular
+replacement in severe grades of craniofacial
+anomaly patients demonstrated consistently
+excellent functional and esthetic results in a
+series of skeletally mature patients. Therefore,
+the authors felt that these devices offered the best
+solution for salvage of craniofacial anomaly
+patients who have had failed autogenous
+reconstructions.
+Hawkins et al. [55] demonstrated that 95% of
+experienced TMJ surgeons surveyed preferred
+alloplastic TMJ replacement to autogenous cos-
+tochondral grafting because of fewer postopera-
+tive complications and more predictable
+outcomes.
+In light of increased utilization of extended
+alloplastic TMJ and mandibular replacements, to
+assure meaningful clinical outcomes reporting
+and analysis, Ellege et al. have proposed a clas-
+sification system [56].
+In conclusion, in the pursuit of understanding
+the etiology, pathophysiology and management
+of muscle related extra-articular and joint pathol-
+ogy related intra-articular TMJ disorders will be
+improved as long as both basic science and clini-
+cal researchers pursue scientific methodology
+and evidence-based management founded on
+well-documented orthopedic joint related princi-
+ples, rather than the sophisms and mechanical
+schemes of the past.
+Among the many questions future TMJ
+researchers and clinicians must ponder are: What
+part does a patient’s genetic profile play in TMJ
+pain and dysfunction? Its etiology, pathophysiol-
+ogy, and management? Are there synovial bio-
+markers that are indicative of TMJ pathology?
+Will improved joint replacement device designs
+and materials improve their performance and
+longevity?
